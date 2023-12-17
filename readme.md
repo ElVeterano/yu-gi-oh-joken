@@ -7,3 +7,5 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
+
+Veja meu site online: [CLIQUE AQUI](https://elveterano.github.io/yu-gi-oh-joken/)
