@@ -8,4 +8,4 @@ conceitos abordados:
 - Funções limpas
 - Organização de código
 
-Veja meu site online: [CLIQUE AQUI](https://elveterano.github.io/yu-gi-oh-joken/)
+Veja meu site online: [CLIQUE AQUI](https://guilherme-beraldo.github.io/yu-gi-oh-joken/)
